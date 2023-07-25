@@ -6,6 +6,8 @@
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/changweihua/changweihua/output/github-contribution-grid-snake.svg"> 
  </picture>
 
+<img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,5 +31,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 微信号 changweihua2011
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
