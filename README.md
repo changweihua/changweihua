@@ -7,6 +7,26 @@
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/changweihua/changweihua/output/github-contribution-grid-snake.svg"> 
  </picture>
 
+
+| .                                                                                                                                       | .                                                                                                                         | 
+ |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------| 
+ | ![Changweihua's github stats](https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=changweihua&theme=radical&layout=compact) | 
+  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=changweihua"></img> 
+  
+ <!--   profile-green-animate --> 
+ ![](./profile-3d-contrib/profile-green-animate.svg) 
+  
+ <!--   grid-snake --> 
+ ![](https://github.com/changweihua/changweihua/blob/output/github-contribution-grid-snake.svg) 
+  
+ <!--   skyline  
+ <a href="https://skyline.github.com/changweihua/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a> 
+ --> 
+  
+ <!--  2d history skills --> 
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=changweihua" width="auto"></img>
+
 <img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--   my-icons --> 
