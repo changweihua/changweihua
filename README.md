@@ -3,11 +3,8 @@
 <!--   my-ticker -->     
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chang+Weihua;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
 
-<picture> 
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/changweihua/changweihua/output/github-contribution-grid-snake-dark.svg"> 
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/changweihua/changweihua/output/github-contribution-grid-snake.svg"> 
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/changweihua/changweihua/output/github-contribution-grid-snake.svg"> 
- </picture>
+<!--   grid-snake --> 
+ ![](https://github.com/changweihua/changweihua/blob/output/github-contribution-grid-snake.svg) 
 
 
 | .                                                                                                                                        | .                                                                                                                                       | .                                                                                                                         | 
@@ -19,8 +16,7 @@
  <!--   profile-green-animate --> 
  ![](./profile-3d-contrib/profile-green-animate.svg) 
   
- <!--   grid-snake --> 
- ![](https://github.com/changweihua/changweihua/blob/output/github-contribution-grid-snake.svg) 
+ 
 
 <!--
 **changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
