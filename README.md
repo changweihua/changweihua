@@ -21,10 +21,6 @@
   
  <!--   grid-snake --> 
  ![](https://github.com/changweihua/changweihua/blob/output/github-contribution-grid-snake.svg) 
- 
- <!--  2d history skills --> 
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=changweihua" width="auto"></img>
-
 
 <!--
 **changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
