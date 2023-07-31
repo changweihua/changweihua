@@ -16,7 +16,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=changweihua"></img> 
   
  <!--   profile-green-animate --> 
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
