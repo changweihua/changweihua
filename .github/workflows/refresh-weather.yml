@@ -45,8 +45,9 @@ jobs:
         run: |
           git config user.name changweihua
           git config user.email changweihua@outlook.com
-          git checkout .
-          git pull
+          git reset --hard
+          # git checkout .
+          git pull origin main
           git add .
           git commit -m "Update weather forecast SVG" || exit 0
           git push
