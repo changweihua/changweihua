@@ -45,8 +45,9 @@ jobs:
         run: |
           git config user.name changweihua
           git config user.email changweihua@outlook.com
+          git checkout .
           git pull
-          git add ./src/weather_forecast.svg
+          git add .
           git commit -m "Update weather forecast SVG" || exit 0
           git push
 
