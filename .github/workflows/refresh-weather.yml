@@ -1,7 +1,7 @@
 name: Update Weather Forecast SVG
 
 on:
-  push:
+  # push:
   schedule:
     - cron: "0 0,6,12,18 * * *"
 
@@ -45,6 +45,7 @@ jobs:
         run: |
           git config user.name changweihua
           git config user.email changweihua@outlook.com
+          git pull
           git add ./src/weather_forecast.svg
           git commit -m "Update weather forecast SVG" || exit 0
           git push
