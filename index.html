@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>连江天气预报</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background-color: #2c3e50;
+      }
+      .svg-container {
+        max-width: 100%;
+        overflow-x: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="svg-container">
+      <!-- 使用object标签来嵌入SVG，这样SVG可以保持其交互性 -->
+      <object
+        data="src/weather_forecast.svg"
+        type="image/svg+xml"
+        width="700"
+        height="180"
+      >
+        您的浏览器不支持SVG
+      </object>
+    </div>
+  </body>
+</html>
