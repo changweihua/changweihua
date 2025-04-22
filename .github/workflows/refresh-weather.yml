@@ -1,7 +1,7 @@
 name: Update Weather Forecast SVG
 
 on:
-  # push:
+  push:
   schedule:
     - cron: "0 0,6,12,18 * * *"
 
