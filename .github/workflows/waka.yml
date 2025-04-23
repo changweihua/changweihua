@@ -16,6 +16,9 @@ jobs:
           LOCALE: zh
           SECTION_NAME: "Coding"
           SHOW_UPDATED_DATE: False
+          SHOW_LINES_OF_CODE: True
+          SHOW_LOC_CHART: False
+          SHOW_SHORT_INFO: False
           # SYMBOL_VERSION: "⬜🟨🟩"
           # SHOW_LINES_OF_CODE: True
           # SHOW_LOC_CHART: False
