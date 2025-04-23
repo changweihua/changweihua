@@ -4,16 +4,14 @@ English | [中文](README_CN.md)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" width="50%" align="right" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on maui-related
 - 🌱 I’m currently learning 微信小程序开发
 - 👯 I’m looking to collaborate on 副业
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 微信号 changweihua2011
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: changweihua@outlook.com
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 #### :bar_chart: [每月编码时间](https://github.com/changweihua/wakapi)
 
