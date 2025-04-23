@@ -2,7 +2,7 @@ English | [中文](README_CN.md)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chang+Weihua;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
 
-**changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **changweihua/changweihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 微信号 changweihua2011
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ## Stats ##
 
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Contrib ##
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
-![](assets/Bottom_down.svg)
+<!-- ![](assets/Bottom_down.svg) -->
