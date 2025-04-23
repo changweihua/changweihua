@@ -13,7 +13,7 @@ jobs:
         continue-on-error: true  # 失败时继续后续步骤
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: zh
           SECTION_NAME: "Coding"
           SHOW_UPDATED_DATE: False
