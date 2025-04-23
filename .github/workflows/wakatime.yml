@@ -23,3 +23,4 @@ jobs:
           TIME_RANGE: last_30_days
           # 显示时间
           SHOW_TIME: true
+          SECTION_NAME: wakao # optional

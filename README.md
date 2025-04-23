@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### :bar_chart: [每月编码时间](https://github.com/changweihua/wakapi)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakao-->
 
 ```txt
 TypeScript                 23 hrs 46 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.23 %
@@ -27,7 +27,7 @@ JSON                       5 hrs 41 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜�
 YAML                       3 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.45 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakao-->
 
 #### Stats ####
 
@@ -41,5 +41,8 @@ YAML                       3 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ![](assets/Bottom_down.svg) -->
