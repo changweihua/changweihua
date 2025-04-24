@@ -7,6 +7,7 @@ English | [中文](README_CN.md)
 [<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
 
 <div>
+
 - 🔭 I’m currently working on maui-related
 - 🌱 I’m currently learning 微信小程序开发
 - 👯 I’m looking to collaborate on 副业
@@ -15,7 +16,9 @@ English | [中文](README_CN.md)
 - 📫 How to reach me: changweihua@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 </div>
+
 </div>
 
 <style>
