@@ -2,8 +2,10 @@ English | [中文](README_CN.md)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chang+Weihua;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" width="50%" align="right" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
+<div class="container">
+[<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
 
+<div>
 - 🔭 I’m currently working on maui-related
 - 🌱 I’m currently learning 微信小程序开发
 - 👯 I’m looking to collaborate on 副业
@@ -12,6 +14,22 @@ English | [中文](README_CN.md)
 - 📫 How to reach me: changweihua@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</div>
+</div>
+
+<style>
+.container {
+  display: grid;
+  grid-template-columns: 1fr; /* 默认1列 */
+  gap: 20px; /* 列间距 */
+}
+
+@media (min-width: 768px) { /* PC断点 */
+  .container {
+    grid-template-columns: repeat(2, 1fr); /* 切换为2列 */
+  }
+}
+</style>
 
 #### :bar_chart: [每月编码时间](https://github.com/changweihua/wakapi)
 
