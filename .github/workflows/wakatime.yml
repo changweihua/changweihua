@@ -18,7 +18,7 @@ jobs:
           # 提交消息
           COMMIT_MESSAGE: Update Waka Stats
           # 图形
-          BLOCKS: "░▒▓█"
+          BLOCKS: "⬜🟨🟩"
           # 时间范围
           TIME_RANGE: all_time
           # 显示时间
