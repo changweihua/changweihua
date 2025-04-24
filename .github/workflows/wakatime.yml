@@ -18,9 +18,9 @@ jobs:
           # 提交消息
           COMMIT_MESSAGE: Update Waka Stats
           # 图形
-          BLOCKS: "⬜🟨🟩"
+          BLOCKS: "░▒▓█"
           # 时间范围
-          TIME_RANGE: last_30_days
+          TIME_RANGE: all_time
           # 显示时间
           SHOW_TIME: true
           SECTION_NAME: wakao # optional
