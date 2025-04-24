@@ -28,7 +28,7 @@ English | [中文](README_CN.md)
   gap: 20px; /* 列间距 */
 }
 
-@media (min-width: 768px) { /* PC断点 */
+@media (min-width: 368px) { /* PC断点 */
   .container {
     grid-template-columns: repeat(2, 1fr); /* 切换为2列 */
   }
