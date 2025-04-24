@@ -20,7 +20,7 @@ jobs:
           # 图形
           BLOCKS: "⬜🟨🟩"
           # 时间范围
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
           # 显示时间
           SHOW_TIME: true
           SECTION_NAME: wakao # optional
