@@ -24,14 +24,8 @@ English | [中文](README_CN.md)
 <style>
 .container {
   display: grid;
-  grid-template-columns: 1fr; /* 默认1列 */
   gap: 20px; /* 列间距 */
-}
-
-@media (min-width: 368px) { /* PC断点 */
-  .container {
-    grid-template-columns: repeat(2, 1fr); /* 切换为2列 */
-  }
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 </style>
 
