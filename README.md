@@ -2,7 +2,7 @@ English | [中文](README_CN.md)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chang+Weihua;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
 
-<div class="container">
+<div style="display: grid;gap: 20px;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
 
@@ -20,14 +20,6 @@ English | [中文](README_CN.md)
 </div>
 
 </div>
-
-<style>
-.container {
-  display: grid;
-  gap: 20px; /* 列间距 */
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
-</style>
 
 #### :bar_chart: [每月编码时间](https://github.com/changweihua/wakapi)
 
