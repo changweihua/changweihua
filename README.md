@@ -21,7 +21,7 @@ English | [中文](README_CN.md)
 
 </div>
 
-#### :bar_chart: [每月编码时间](https://github.com/changweihua/wakapi)
+#### :bar_chart: [月度工分](https://github.com/changweihua/wakapi)
 
 <!--START_SECTION:wakao-->
 
