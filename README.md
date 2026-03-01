@@ -49,30 +49,30 @@ JSON         5 hrs 18 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C210%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-24.80%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-24.55%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     3114 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌆 白天                     2954 commits        ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌃 傍晚                     1481 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-🌙 晚上                     209 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌞 早晨                     3094 commits        ██████████░░░░░░░░░░░░░░░   40.93 % 
+🌆 白天                     2811 commits        █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌃 傍晚                     1443 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌙 晚上                     212 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-星期二                      1450 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-星期三                      1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-星期四                      1241 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-星期五                      1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-星期六                      701 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-星期日                      599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+星期一                      1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+星期二                      1412 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+星期三                      1338 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+星期四                      1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+星期五                      1174 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+星期六                      691 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+星期日                      597 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 
 
