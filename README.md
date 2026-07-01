@@ -49,7 +49,7 @@ JSON             3 hrs 48 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C506%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C511%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -58,17 +58,17 @@ JSON             3 hrs 48 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     3505 commits        ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌆 白天                     3348 commits        ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌃 傍晚                     1528 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌞 早晨                     3507 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
+🌆 白天                     3348 commits        ██████████░░░░░░░░░░░░░░░   38.90 % 
+🌃 傍晚                     1528 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 🌙 晚上                     224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+星期一                      1306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 星期二                      1617 commits        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-星期三                      1534 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+星期三                      1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 星期四                      1425 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 星期五                      1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 星期六                      737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
@@ -82,26 +82,26 @@ JSON             3 hrs 48 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-C#                       2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Java                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Binary                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Markdown                 2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+C#                       2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Java                     2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+XML                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.38 % 
-Visual Studio            3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-IntelliJ IDEA            3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+VS Code                  5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
+IntelliJ IDEA            3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Visual Studio            2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 
 🐱‍💻 项目: 
-changweihua.github.io    4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
-DeepSeekSolution         3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-papers                   3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-antd-tgs                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-PassengerServicePlatform 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+changweihua.github.io    4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
+papers                   3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
+DeepSeekSolution         2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+PassengerServicePlatform 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+tgs-solution             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 操作系统: 
-Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C#** 
