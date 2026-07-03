@@ -49,30 +49,30 @@ TypeScript       4 hrs 8 mins          🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-27.79%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-22.88%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     3510 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌆 白天                     3348 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌃 傍晚                     1528 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-🌙 晚上                     224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌞 早晨                     3281 commits        ███████████░░░░░░░░░░░░░░   42.14 % 
+🌆 白天                     2856 commits        █████████░░░░░░░░░░░░░░░░   36.68 % 
+🌃 傍晚                     1446 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌙 晚上                     203 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-星期二                      1617 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-星期三                      1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-星期四                      1429 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-星期五                      1344 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-星期六                      737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-星期日                      641 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+星期一                      1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+星期二                      1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+星期三                      1375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+星期四                      1251 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+星期五                      1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+星期六                      734 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+星期日                      627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
 
@@ -82,36 +82,36 @@ TypeScript       4 hrs 8 mins          🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.65 % 
-Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-C#                       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-XML                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Java                     7 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
+Markdown                 3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+C#                       1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+XML                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            7 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.63 % 
-VS Code                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Visual Studio            1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+IntelliJ IDEA            10 hrs 11 mins      ███████████████░░░░░░░░░░   58.94 % 
+VS Code                  5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Visual Studio            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 🐱‍💻 项目: 
-papers                   7 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.12 % 
-changweihua.github.io    5 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-DeepSeekSolution         1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-PassengerServicePlatform 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-tgs-solution             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+papers                   10 hrs 4 mins       ███████████████░░░░░░░░░░   58.24 % 
+changweihua.github.io    5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+DeepSeekSolution         1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+PassengerServicePlatform 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+tgs-solution             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 操作系统: 
-Windows                  15 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C#** 
 
 ```text
-C#                       56 repos            ███████████░░░░░░░░░░░░░░   42.75 % 
-Vue                      21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+C#                       56 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+Vue                      21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
