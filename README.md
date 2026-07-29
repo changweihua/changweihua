@@ -4,8 +4,6 @@ English | [中文](README_CN.md)
 
 <div style="display: grid;gap: 20px;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&locale=cn" />](https://metrics.lecoq.io/changweihua#gh-light-mode-only)
-
 <div>
 
 - 🔭 I’m currently working on maui-related
@@ -35,13 +33,8 @@ Vue               7 hrs 56 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:wakao-->
 
-#### Stats ####
 
-
-| .                                                                                                                                            | .                                                                                                                                      | .                                                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Changweihua's github stats](https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&theme=radical&hide_title=true) | ![Changweihua's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=changweihua&theme=radical&layout=compact) | ![Changweihua's github stats](https://github-readme-stats.vercel.app/api?username=changweihua&show_icons=true&theme=radical&include_all_commits=true) |
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=changweihua)
 
 #### Contrib ####
 
