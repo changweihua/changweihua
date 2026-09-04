@@ -43,32 +43,32 @@ JSON              12 hrs 10 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C902%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C914%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-27.21%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.22%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     3904 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌆 白天                     3804 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌃 傍晚                     2161 commits        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-🌙 晚上                     210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+🌞 早晨                     4008 commits        █████████░░░░░░░░░░░░░░░░   37.55 % 
+🌆 白天                     4150 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+🌃 傍晚                     2302 commits        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+🌙 晚上                     215 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-星期二                      1666 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-星期三                      1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-星期四                      1573 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-星期五                      1656 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-星期六                      1048 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-星期日                      917 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+星期一                      1535 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+星期二                      1774 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+星期三                      1881 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+星期四                      1674 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+星期五                      1827 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+星期六                      1060 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+星期日                      924 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 ```
 
 
@@ -78,53 +78,53 @@ JSON              12 hrs 10 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     31 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
-TypeScript               26 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   32.52 % 
-Markdown                 7 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JSON                     5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-C#                       2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Java                     33 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+TypeScript               26 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Markdown                 10 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JSON                     5 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+CSS                      1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 编辑器: 
-VS Code                  70 hrs 17 mins      ██████████████████████░░░   86.37 % 
-Visual Studio            4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Opencode Cli             4 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Android Studio           1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+VS Code                  75 hrs 27 mins      ███████████████████████░░   90.34 % 
+Visual Studio            3 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Opencode Cli             3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Android Studio           1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 项目: 
-quiz                     66 hrs 22 mins      ████████████████████░░░░░   81.57 % 
-WorkPulse                9 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-DeepSeekSolution         3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-changweihua.github.io    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-rfidTrack                57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+quiz                     71 hrs 11 mins      █████████████████████░░░░   85.23 % 
+WorkPulse                8 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+DeepSeekSolution         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+changweihua.github.io    1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+rfidTrack                57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 操作系统: 
-Windows                  81 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  83 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 72 hrs 44 mins (89.4%)
+⏱ AI Coding Time: 75 hrs 15 mins (90.09%)
 
-✍️ 24,410 lines written by AI, 2,413 lines written by hand (91.0% AI-written)
+✍️ 22,877 lines written by AI, 2,746 lines written by hand (89.28% AI-written)
 
-🔤 89,019,032 Input Tokens, 6,549,756 Output Tokens
+🔤 92,286,717 Input Tokens, 6,939,547 Output Tokens
 
-💵 $2407.86 Estimated AI Cost This Week
+💵 $2414.03 Estimated AI Cost This Week
 
-🧠 580 AI Sessions, 1316 AI Prompts
+🧠 618 AI Sessions, 1367 AI Prompts
 
-Mimo                     21,326 lines        ████████████████████░░░░░   79.83 % 
-Tencent Hy               5,145 lines         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Nemotron                 242 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Mimo                     23,982 lines        ████████████████████████░   94.08 % 
+Tencent Hy               1,268 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Nemotron                 242 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Ling                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.0% of written lines came from AI
-📄 Detailed Prompter — average 1,104 characters per prompt
+🤖 AI-Driven — 89.28% of written lines came from AI
+📄 Detailed Prompter — average 1,102 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.44% of changed lines were hand-edited
+🚀 High AI Trust — 13.21% of changed lines were hand-edited
 ```
 
 **我最常使用 C#** 
