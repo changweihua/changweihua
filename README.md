@@ -43,32 +43,32 @@ C#                2 hrs 17 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C035%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.57%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.70%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     4341 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌆 白天                     4315 commits        █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌃 傍晚                     2531 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-🌙 晚上                     211 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌞 早晨                     4574 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌆 白天                     4936 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌃 傍晚                     2656 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+🌙 晚上                     216 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
-📅 **星期三 时的我最有干劲** 
+📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1695 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-星期二                      1884 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-星期三                      1954 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-星期四                      1730 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-星期五                      1881 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-星期六                      1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-星期日                      1041 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+星期一                      1894 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+星期二                      2138 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+星期三                      2117 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+星期四                      1925 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+星期五                      2028 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+星期六                      1231 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+星期日                      1049 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 
 
@@ -78,26 +78,26 @@ C#                2 hrs 17 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-C#                       1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Java                     2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+C#                       1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 28 mins       █████████████░░░░░░░░░░░░   50.49 % 
-Android Studio           2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Visual Studio            1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+VS Code                  3 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.19 % 
+Android Studio           2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+Visual Studio            1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
 
 🐱‍💻 项目: 
-changweihua.github.io    3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-DeepSeekSolution         1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-rfidTrack                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-quiz                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-RFIDDemo                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+changweihua.github.io    2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+DeepSeekSolution         1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+rfidTrack                1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+quiz                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+RFIDDemo                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 💻 操作系统: 
-Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
