@@ -43,32 +43,32 @@ XML               1 hr 31 mins          🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C036%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C037%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-33.78%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.77%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     4549 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-🌆 白天                     4866 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌃 傍晚                     2649 commits        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 晚上                     220 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+🌞 早晨                     4612 commits        █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌆 白天                     4991 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 傍晚                     2673 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌙 晚上                     227 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-星期二                      2106 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-星期三                      2105 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-星期四                      1903 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-星期五                      2016 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-星期六                      1234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-星期日                      1049 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+星期一                      1905 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+星期二                      2166 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+星期三                      2147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+星期四                      1949 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+星期五                      2045 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+星期六                      1237 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+星期日                      1054 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 
@@ -78,26 +78,24 @@ XML               1 hr 31 mins          🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-C#                       1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-XML                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+XML                      1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   38.12 % 
+Java                     1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Gradle                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Kotlin                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
-Android Studio           1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-Visual Studio            1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Android Studio           2 hrs 23 mins       ██████████████████░░░░░░░   70.63 % 
+VS Code                  59 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
 
 🐱‍💻 项目: 
-rfidTrack                1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-DeepSeekSolution         1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-changweihua.github.io    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-quiz                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-WorkPulse                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+rfidTrack                2 hrs 21 mins       █████████████████░░░░░░░░   69.43 % 
+quiz                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+changweihua.github.io    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+RFIDDemo                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 操作系统: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,11 +107,11 @@ No AI Coding Activity Tracked This Week
 **我最常使用 C#** 
 
 ```text
-C#                       57 repos            ██████████░░░░░░░░░░░░░░░   41.91 % 
-TypeScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+C#                       57 repos            ██████████░░░░░░░░░░░░░░░   41.61 % 
+TypeScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+JavaScript               18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 
