@@ -43,32 +43,32 @@ C#                2 hrs 1 min           🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C045%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C049%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.84%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.74%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     4659 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌆 白天                     5067 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
-🌃 傍晚                     2688 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌙 晚上                     234 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌞 早晨                     4610 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌆 白天                     4962 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌃 傍晚                     2658 commits        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+🌙 晚上                     220 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      1918 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-星期二                      2195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-星期三                      2174 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-星期四                      1979 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-星期五                      2085 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-星期六                      1239 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-星期日                      1058 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+星期一                      1899 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+星期二                      2142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+星期三                      2124 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+星期四                      1935 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+星期五                      2059 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+星期六                      1239 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+星期日                      1052 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 
@@ -78,32 +78,47 @@ C#                2 hrs 1 min           🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-XML                      4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
-Java                     2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Kotlin                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-C#                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Java                     4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.84 % 
+XML                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Kotlin                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 编辑器: 
-Android Studio           9 hrs 14 mins       █████████████████████░░░░   82.19 % 
-VS Code                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Visual Studio            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Android Studio           9 hrs 51 mins       █████████████████████░░░░   85.48 % 
+VS Code                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Visual Studio            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+OpenCode                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 项目: 
-rfidTrack                9 hrs 9 mins        ████████████████████░░░░░   81.50 % 
-changweihua.github.io    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-DeepSeekSolution         39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-WorkPulse                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-RFIDDemo                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+rfidTrack                9 hrs 48 mins       █████████████████████░░░░   85.08 % 
+changweihua.github.io    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+DeepSeekSolution         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+WorkPulse                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+quiz                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 操作系统: 
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (1.27%)
+
+✍️ 0 lines written by AI, 1,908 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 162 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 81 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 C#** 
