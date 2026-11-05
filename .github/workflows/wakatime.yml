@@ -6,6 +6,13 @@ on:
     - cron: '0 20 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     name: Update README
@@ -14,13 +21,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 提交消息
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Waka Stats
-          # 图形
           BLOCKS: "⬜🟨🟩"
-          # 时间范围
           TIME_RANGE: last_30_days
-          # 显示时间
           SHOW_TIME: true
-          SECTION_NAME: wakao # optional
+          SECTION_NAME: wakao
