@@ -5,12 +5,20 @@ on:
   schedule:
     - cron: '0 20 * * *'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@v0.3.1
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
