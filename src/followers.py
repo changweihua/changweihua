@@ -9,8 +9,13 @@ if __name__ == "__main__":
     token = sys.argv[2]
     readmePath = sys.argv[3]
 
+    if not token or token.strip() == "":
+        print("❌ Token 为空，请检查 secret 配置")
+        sys.exit(1)
+
     headers = {
-        "Authorization": f"token {token}"
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json"
     }
 
     followers = []
@@ -50,8 +55,26 @@ query {{
 }}
 '''
         response = requests.post(
-            f"https://api.github.com/graphql", json.dumps({"query": query}), headers=headers)
-        res = response.json()["data"]["user"]["followers"]
+            "https://api.github.com/graphql",
+            json={"query": query},
+            headers=headers
+        )
+
+        try:
+            payload = response.json()
+        except Exception as e:
+            print(f"❌ 无法解析 API 响应: {e}")
+            print(f"HTTP 状态码: {response.status_code}")
+            print(f"响应内容: {response.text}")
+            sys.exit(1)
+
+        if response.status_code != 200 or "data" not in payload or "errors" in payload:
+            print("❌ GitHub GraphQL API 请求失败")
+            print(f"HTTP 状态码: {response.status_code}")
+            print(f"响应内容: {json.dumps(payload, ensure_ascii=False, indent=2)}")
+            sys.exit(1)
+
+        res = payload["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
             repoCount = follower["repositories"]["totalCount"]
