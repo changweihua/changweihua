@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Update README
-        run: python src/followers.py ${{ github.repository_owner }} ${{ secrets.WAKATIME_TOKEN }} README.md
+        run: python src/followers.py ${{ github.repository_owner }} ${{ secrets.WAKA_TOKEN }} README.md
 
       - name: Commit changes
         run: |
