@@ -39,4 +39,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.WAKATIME_TOKEN }}
+          github_token: ${{ secrets.WAKA_TOKEN }}
